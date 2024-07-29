@@ -1,3 +1,6 @@
+/*
+ * imports ClassRoom class
+ */
 import ClassRoom from './0-classroom';
   /**
    * @param {Number} maxStudentsSize - The maximum number of
