@@ -1,3 +1,4 @@
+/* eslint-disable */
 /*
  * imports ClassRoom class
  */
